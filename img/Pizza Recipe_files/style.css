@@ -1,0 +1,39 @@
+body{
+    background-color:  #daedff;
+}
+
+.center{
+    text-align: center;
+}
+
+.center.head.title{
+    font-size: 50px;
+}
+
+.center.title{
+    font-family: "Courier New", sans-serif;
+    font-size: 30px;
+    background-color: #fc9e9e;
+}
+
+.imgcenter{
+    margin: auto;
+    display: block;
+}
+
+.lasagna{
+    width: 600px;
+    height: auto;
+}
+
+h2{
+    font-family: "Tahoma", sans-serif;
+}
+
+.bigger{
+    font-size: 18px;
+}
+
+.section{
+    background-color:  #af7ac5;
+}
